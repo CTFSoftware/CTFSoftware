@@ -1,4 +1,4 @@
-<img src="https://imgur.com/a/NEpe6S7">
+<img src="https://i.imgur.com/bEuUIgE.png">
 
 - 👨‍💻 All of my projects are available at [https://calebflores.netlify.app/](https://calebflores.netlify.app/)
 
