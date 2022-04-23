@@ -1,8 +1,22 @@
 <img src="https://i.imgur.com/bEuUIgE.png">
 
-- 👨‍💻 All of my projects are available at [https://calebflores.netlify.app/](https://calebflores.netlify.app/)
-
-- 📫 How to reach me **calebflores24@gmail.com**
+<p align="center">
+  <a href="https://calebflores.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
+    </a>
+  <a href="https://www.linkedin.com/in/calebflores/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+  </a>
+  <a href="https://twitter.com/CTFSoftware" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/angellist" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=ANGEL-LIST&color=cdf998&style=plastic&logo=angellist&logo-color=white"/>
+  </a>
+  <a href="https://shawncharles.com/resume" target="_blank">
+      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=23555f&style=plastic&logo=react&logo-color=white"/>
+  </a>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
