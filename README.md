@@ -18,6 +18,9 @@
   </a>
 </p>
 
+A highly logical and flexible developer with a passion for determining efficient solutions to complex problems. Experienced with code design, development, and maintenance. Excels in managing multiple projects and tackling new tasks as priorities shift.
+
+See [my website](https://calebflores.netlify.app/) for more information!
 
 <h1 align="center">Technologies</h1>
 
