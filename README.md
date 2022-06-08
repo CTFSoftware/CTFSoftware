@@ -54,5 +54,6 @@
 <img src="https://img.shields.io/badge/Visual_Studio-228C22?style=for-the-badge&logo=visual%20studio&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/GIT-228C22?style=for-the-badge&logo=git&logoColor=white" height=25>
 <img src="https://img.shields.io/badge/Heroku-228C22?style=for-the-badge&logo=heroku&logoColor=white" height=25>
+<img src="https://img.shields.io/badge/Postman-228C22?style=for-the-badge&logo=postman&logoColor=white" height=25>
 </p>
 
