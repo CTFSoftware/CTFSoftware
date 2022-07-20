@@ -27,16 +27,7 @@
 
 
   <!--Analytics & Data-->
-<h2 align="center">Data & Analytics</h2>
-<div align="center">
-<table>
-<tr>
-<td width="50%">
-<img src="http://github-readme-streak-stats.herokuapp.com?user=ctfsoftware&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=228C22&sideNums=228C22&sideLabels=FFFFFF&background=FFFFFF00">
-</td>
-<td width="50%">
-<img width="100%" src="https://github-readme-stats.vercel.app/api?username=ctfsoftware&bg_color=FFFFFF00&hide_border=true&text_color=228C22&title_color=fa8b00&include_all_commits=true&count_private=true">
-</table>
+
 </div>
 <img src="https://activity-graph.herokuapp.com/graph?username=ctfsoftware&bg_color=FFFFFF00&color=FFFFFF&line=228C22&point=fa8b00&hide_border=true&title_color=">
 <h2 align="center">Technical Skills</h2>
