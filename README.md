@@ -28,8 +28,7 @@
 
   <!--Analytics & Data-->
 
-</div>
-<img src="https://activity-graph.herokuapp.com/graph?username=ctfsoftware&bg_color=FFFFFF00&color=FFFFFF&line=228C22&point=fa8b00&hide_border=true&title_color=">
+
 <h2 align="center">Technical Skills</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-228C22?style=for-the-badge&logo=html5&logoColor=white" height=25>
