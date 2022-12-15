@@ -31,7 +31,7 @@
       <h3 align="center">ReadingNook</h3>
         <br />
         <a target="_blank" href="https://reading-nook.cyclic.app/">
-            <img src="download.png" width="100%" alt="Book App"/>
+            <img src="Screen Shot 2022-12-15 at 1.23.07 PM.png" width="100%" alt="Book App"/>
         </a>
         <br />
         <p align="center">
