@@ -77,7 +77,8 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - The Most Refreshing Drinks, Straight From The TopShelf!</p>
     </td>
-
+      </tr>
+</table>
 <br>
   <!--Analytics & Data-->
 
