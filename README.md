@@ -77,14 +77,6 @@
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - The Most Refreshing Drinks, Straight From The TopShelf!</p>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Matching Cards</h3>
-        <br />
-        <a target="_blank" href="https://poke-matchcards.netlify.app/">
-          <img src="images/gif3.gif" width="100%" alt="Matching Cards"/>
-        </a>
-        <br />
-        <p align="center">
 
 <br>
   <!--Analytics & Data-->
