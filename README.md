@@ -18,9 +18,7 @@
   <img src="https://img.shields.io/badge/Download_Resume-228C22?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
-<p align="center">
-   
-</p>
+
 
 
 <h1 align="center">Projects</h1>
@@ -45,12 +43,11 @@
       </p>
         <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> - Keep track of all your books with ReadingNook. ReadingNook is a place to keep your own personal library.</p>
     </td>
-    
      <td width="50%" valign="top">
       <h3 align="center">TabSafe</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="TabSafe.png" width="100%" alt="Book App"/>
+            <img src="TabSafe.png" width="100%" alt="TabSafe"/>
         </a>
         <br />
         <p align="center">
