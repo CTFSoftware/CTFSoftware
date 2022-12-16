@@ -67,7 +67,7 @@
       <h3 align="center">TopShelf</h3>
       <br />
         <a target="_blank" href="https://practical-wright-2a26d0.netlify.app/">
-          <img src="images/gif4.gif" width="100%" alt="TopShelf"/>
+          <img src="TopShelf.png" width="100%" alt="TopShelf"/>
         </a>
       <br />
         <p align="center">
