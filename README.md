@@ -67,7 +67,7 @@
     <td width="50%" valign="top">
       <h3 align="center">TopShelf</h3>
       <br />
-        <a target="_blank" href="https://practical-wright-2a26d0.netlify.app/">
+        <a target="_blank" href="#">
           <img src="TopShelf.png" width="100%" alt="Drinks"/>
         </a>
       <br />
