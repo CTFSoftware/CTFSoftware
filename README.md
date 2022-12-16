@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> - Organise the tabs on your browser and never lose a link again.</p>
+        <p><strong>Javascript, Bootstrap, Node.js, & Express.js</strong> - Tab-safe is an online web app designed with accessibility users in mind. Have you ever been browsing with multiple tabs open, then suffered a crash or just opened another window losing everything you had ready? Don't worry we got you! With Tab-safe you can add your links to a personal database and retrieve them later safe in the knowledge they're backed up in our database.</p>
     </td>
 
 <br>
