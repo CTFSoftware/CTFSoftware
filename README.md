@@ -47,7 +47,7 @@
       <h3 align="center">TabSafe</h3>
         <br />
         <a target="_blank" href="#">
-            <img src="TabSafe.png" width="100%" alt="TabSafe"/>
+            <img src="TabSafe.gif" width="100%" alt="TabSafe"/>
         </a>
         <br />
         <p align="center">
