@@ -14,7 +14,7 @@
   <img src="https://img.shields.io/badge/caleb_flores-228C22?style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
   <a href="https://angel.co/u/caleb-flores" target="_blank">
     <img src="https://img.shields.io/badge/caleb_flores-228C22?style=for-the-badge&logo=angellist&logoColor=white" height=25></a>
-<a href="https://dev.to/USER" target="_blank">
+<a href="https://docs.google.com/document/d/1QjIl6gdfzVMn57S2-HkiwatCM7JjPW1F/edit?usp=sharing&ouid=106516329700508689134&rtpof=true&sd=true" target="_blank">
   <img src="https://img.shields.io/badge/Download_Resume-228C22?style=for-the-badge&logo=googledrive&logoColor=white" height=25></a>
 </p>
 
